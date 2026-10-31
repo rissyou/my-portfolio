@@ -1,0 +1,14 @@
+[
+  { "id": "maltese", "name": "말티즈", "size": "소형" },
+  { "id": "toy-poodle", "name": "토이 푸들", "size": "소형" },
+  { "id": "pomeranian", "name": "포메라니안", "size": "소형" },
+  { "id": "shih-tzu", "name": "시츄", "size": "소형" },
+  { "id": "bichon-frise", "name": "비숑 프리제", "size": "소형" },
+  { "id": "chihuahua", "name": "치와와", "size": "소형" },
+  { "id": "welsh-corgi", "name": "웰시코기", "size": "중형" },
+  { "id": "shiba", "name": "시바견", "size": "중형" },
+  { "id": "jindo", "name": "진돗개", "size": "중형" },
+  { "id": "beagle", "name": "비글", "size": "중형" },
+  { "id": "golden-retriever", "name": "골든 리트리버", "size": "대형" },
+  { "id": "labrador-retriever", "name": "래브라도 리트리버", "size": "대형" }
+]
